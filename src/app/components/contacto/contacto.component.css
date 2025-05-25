@@ -1,0 +1,19 @@
+::ng-deep .custom-form-field .mat-mdc-form-field-outline {
+  color: #7B4A2F !important;
+}
+
+::ng-deep .custom-form-field .mat-mdc-form-field-outline-thick {
+  color: #7B4A2F !important;
+}
+
+::ng-deep .custom-form-field.mat-focused .mat-mdc-form-field-outline-thick {
+  color: #A65F38 !important;
+}
+
+::ng-deep .custom-form-field .mat-mdc-floating-label {
+  color: #3E2C1C !important;
+}
+
+::ng-deep .custom-form-field.mat-focused .mat-mdc-floating-label {
+  color: #7B4A2F !important;
+}
